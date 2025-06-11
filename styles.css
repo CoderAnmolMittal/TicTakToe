@@ -1,0 +1,23 @@
+body{
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.row1,.row2,.row3{
+    display: flex;
+   
+}
+
+.col{
+    display: flex;
+    height:100px;
+    width:100px;
+    justify-content: center;
+    border: 10px;
+    border-color: black;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+  
+    
+}
